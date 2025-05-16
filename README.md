@@ -6,4 +6,4 @@ Synthetic CoT data (Sec 3.2) and preprocessed database prompt for Bird dataset (
 
 [25.3.11 Update] Prefercence data collected from Syn CoT SFT Qwen2.5-7B-Instruct under default configuation is now available at [Google Drive](https://drive.google.com/file/d/12sotBI7OlNfJ2fp2hNa_7Zy7RrAE5PXe/view?usp=sharing). 
 
-Code is coming in a while... (not too soon)
+[25.5.16 Update] 🎉🥂 Our paper has been accepted to ACL 2025 main conference, see you in Vienna! Code will be released as soon as possible.
