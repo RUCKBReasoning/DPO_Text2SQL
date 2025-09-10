@@ -1,3 +1,5 @@
+# DPO Text-to-SQL
+
 This repository is the official implementation of ACL 2025 Main Long paper: *Uncovering the Impact of Chain-of-Thought Reasoning for Direct Preference Optimization: Lessons from Text-to-SQL*, providing a step-by-step tutorial to reproduct the main experiment of the paper for a 7b-scale base model with 4xA100 GPUs (~1.5d). 
 
 ### News
