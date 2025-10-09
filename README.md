@@ -21,7 +21,8 @@ conda create -n llama_factory python=3.11 -y
 conda activate llama_factory
 git clone https://github.com/hiyouga/LLaMA-Factory.git
 cd LLaMA-Factory 
-git checkout 50b44d3c6da7c9cb24a60fedec171fb1de3e764a
+git fetch origin 50b44d3c6da7c9cb24a60fedec171fb1de3e764a
+git switch --detach 50b44d3c6da7c9cb24a60fedec171fb1de3e764a
 pip install -e ".[torch,metrics]"
 pip install flash-attn --no-build-isolation
 pip install transformers==4.47.1
